@@ -312,12 +312,12 @@ public class DriverClass {
 
 
 	public static void addScores(){
-		addScores("data/2010FallCompiled.xls");
-		addScores("data/2011SpringCompiled.xls");
-		addScores("data/2012recallcompiled.xls");
-		addScores("data/2012compiled.xls");
-		addScores("data/2014compiled.xls");
-		addScores("data/2016compiled.xls");
+		addScores("data/Compiled/2010FallCompiled.xls");
+		addScores("data/Compiled/2011SpringCompiled.xls");
+		addScores("data/Compiled/2012recallcompiled.xls");
+		addScores("data/Compiled/2012compiled.xls");
+		addScores("data/Compiled/2014compiled.xls");
+		addScores("data/Compiled/2016compiled.xls");
 		addScores("data/Compiled/2008FallPresidentCompiled.xls");
 		addScores("data/Finals/2008StateAssembFinal.xls");
 		addScores("data/Finals/2008StateSenateFinal.xls");
@@ -379,12 +379,12 @@ public class DriverClass {
 			wardList.get(i).sumVotes("data/Finals/2008StateSenateFinal.xls");
 			wardList.get(i).sumVotes("data/Finals/2008StateAssembFinal.xls");
 			wardList.get(i).sumVotes("data/Compiled/2008FallPresidentCompiled.xls");
-			wardList.get(i).sumVotes("data/2010FallCompiled.xls");
-			wardList.get(i).sumVotes("data/2011SpringCompiled.xls");
-			wardList.get(i).sumVotes("data/2012Compiled.xls");
-			wardList.get(i).sumVotes("data/2012compiled.xls");
-			wardList.get(i).sumVotes("data/2014compiled.xls");
-			wardList.get(i).sumVotes("data/2016compiled.xls");
+			wardList.get(i).sumVotes("data/Compiled/2010FallCompiled.xls");
+			wardList.get(i).sumVotes("data/Compiled/2011SpringCompiled.xls");
+			wardList.get(i).sumVotes("data/Compiled/2012Compiled.xls");
+			wardList.get(i).sumVotes("data/Compiled/2012compiled.xls");
+			wardList.get(i).sumVotes("data/Compiled/2014compiled.xls");
+			wardList.get(i).sumVotes("data/Compiled/2016compiled.xls");
 
 		}
 	}
