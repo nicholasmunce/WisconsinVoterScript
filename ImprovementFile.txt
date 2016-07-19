@@ -1,0 +1,13 @@
+Notes on program limitations:
+
+Search and Find outline (have to be inputting a list). More broadly, will be limited by search and find design choices, meant to output a report for one Rep.
+
+Incredibly hack and slashed. Elegant if you don’t look at it.
+
+No ability to select what information you want, aside from commenting out methods.
+
+Only ability to reliably count votes comes down to only counting votes for Towns and Villages as a whole. The spreadsheets from GAB irregularly labeled these and I am not smart enough to fix it.
+
+SLOW. I could use help here.
+
+Limited object-oriented implementation. 
